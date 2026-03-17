@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    text-align: center;
+    line-height: 1.6;
+}
+.hero{
+    padding: 50px 20px;
+}
+.logo{
+    width: 60px;
+    margin-top: 20px;
+}
+h1 h2{
+    margin-bottom: 20px;
+}
+p{
+    color: gray;
+    max-width: 500px;
+    margin: 0 auto 20px;
