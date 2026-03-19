@@ -47,3 +47,46 @@ p{
 .features{ 
     padding: 50px 20px; 
 }
+.feature-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+.feature-text{
+    text-align: center;
+}
+.feature-text div{
+    margin-bottom: 20px;
+}
+.access img{
+    width: 100%;
+    max-width: 600px;
+}
+.tools{
+    padding: 50px 20px;
+}
+.tools-grid{
+    display: grid;
+}
+.tools-grid div{
+    padding: 20px;
+}
+.cto{
+    padding: 50px 20px;
+}
+.imagee{
+    display: flex;
+    text-align: center;
+    gap: 30px;
+}
+.footer{
+    background: #f5f5f5;
+    padding: 30px 20px;
+}
+
+.footer a{
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+}
