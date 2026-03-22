@@ -63,6 +63,10 @@ p{
     align-items: center;
     gap: 100px;
 }
+.feature-content img {
+  width: 100%;
+  max-width: 600px;
+}
 .feature-content img{
     margin-left: -15rem;
 }
